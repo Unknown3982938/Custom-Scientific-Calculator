@@ -2,7 +2,7 @@
 A custom-built scientific calculator designed and developed from scratch as a hardware project.
 
 # Features
-- ESP32 Based man controller
+- ESP32 Based main controller
 - Color TFT
 - Physical key matrix
 - Scientific and mathematical functions
@@ -11,7 +11,7 @@ A custom-built scientific calculator designed and developed from scratch as a ha
 - Custom enclosure
 
 # Project status
-The project is currently n development. The schematic and PCB are being designed, while the firmware and user interface are being developed alongsde the hardware
+The project is currently in development. The schematic and PCB are being designed, while the firmware and user interface are being developed alongsde the hardware
 
 # Goals
 The goal is to create a functional, portable scientific calculator while gaining practical experience in:
