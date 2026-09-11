@@ -1,0 +1,3 @@
+PCB manufucturing cost is about $10-$20, while 3D printing cost remain undetermined.
+---
+The plan is to acquire the PCB first before finalizing the 3D enclosure, to ensure accuracy of dimensions. After that, the program will be set into development if parts are received.
