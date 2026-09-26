@@ -13,7 +13,7 @@ The hardware is currently undergoing PCB and mechanical development. Firmware an
 - SD card support(OPTIONAL)
 - Scientific and mathematical functions
 - Rechargeable battery
-- Mdular/Serviceable design (planned to make a compact version, consisting of SMTs instead of THTs)
+- Modular/Serviceable design (planned to make a compact version, consisting of SMTs instead of THTs)
 - Custom PCB
 - Custom enclosure
 
@@ -36,11 +36,11 @@ The enclosure and other mechanical components are included as CAD files. These d
 # Goals
 The goal is to create a functional, portable scientific calculator while gaining practical experience in:
 - PCB design
-- Embedded programmng
+- Embedded programming
 - Human-machine interfaces
 - Power management
 - Mechanical design
-- Electronics Manufucturing
+- Electronics Manufacturing
 
 ---
 
