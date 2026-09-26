@@ -18,10 +18,10 @@ The hardware is currently undergoing PCB and mechanical development. Firmware an
 - Custom enclosure
 
 # Repository Contents
-HARDWARE/ - Schematic, BOM, and PCB layout
-FIRMWARE/ - Sketch Code and other software related contents
-CAD/ENCLOSURE/ - Enclosure and Mechanical CAD files
-Manufacturing/ - fabrication-ready manufacturing files
+- HARDWARE/ - Schematic, BOM, and PCB layout
+- FIRMWARE/ - Sketch Code and other software related contents
+- CAD/ENCLOSURE/ - Enclosure and Mechanical CAD files
+- Manufacturing/ - fabrication-ready manufacturing files
 
 # Hardware
 The calculator uses a custom PCB designed specifically for the project. The hardware is still being refined and has not yet completed final physical validation.
