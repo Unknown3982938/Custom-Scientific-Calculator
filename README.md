@@ -22,6 +22,7 @@ The hardware is currently undergoing PCB and mechanical development. Firmware an
 - FIRMWARE/ - Sketch Code and other software related contents
 - CAD/ENCLOSURE/ - Enclosure and Mechanical CAD files
 - Manufacturing/ - fabrication-ready manufacturing files
+- REFERENCES - Additional materials and information (e.g. Simulations, tests, and additional datas)
 
 # Hardware
 The calculator uses a custom PCB designed specifically for the project. The hardware is still being refined and has not yet completed final physical validation.
@@ -31,6 +32,7 @@ Firmware development is currently in progress. The included firmware represents 
 
 # CAD
 The enclosure and other mechanical components are included as CAD files. These designs are still being refined alongside the PCB and physical prototype.
+
 
 
 # Goals
